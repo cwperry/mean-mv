@@ -1,0 +1,20 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "authors": [
+    "cwperry <chrisp@containerstore.com>"
+  ],
+  "description": "\"Extreme Tech Training\"",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "toastr": "~2.0.1",
+    "angular-resource": "~1.2.16",
+    "angular-route": "~1.2.16",
+    "bootstrap": "~3.1.1"
+  }
+}
